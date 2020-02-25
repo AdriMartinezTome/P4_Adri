@@ -1,0 +1,47 @@
+.box{
+     border: 1px solid grey;
+    width:58%;
+    padding:3px;
+    font-family: 'Custom Language',arial,helvetica,sans serif;
+    font-size: 10px;
+	min-width:400px;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+.titol{
+    font-size: calc(2.24em);
+    color: #7cb021 !important;
+}
+.field{
+    font-size: calc(1.80em);
+}
+.select{
+    padding:4px;
+}
+.selectinside{
+    width:100%;
+    font-size: calc(1.60em);
+}
+.itext{
+    padding-left:3px;
+}
+.itexts{
+    width:387px;
+    margin-bottom:6px;
+    margin-top:8px;
+    line-height: 28px;
+}
+.itexts2{
+    width:97%;
+    line-height: 80px;
+    text-align:left;
+    vertical-align: top;
+	margin-top:5px;
+	margin-bottom:3px;
+}
+input[type=submit] {
+    background-color:#007dbe;
+	color: #fff;
+	padding: 5px 5px;
+}
